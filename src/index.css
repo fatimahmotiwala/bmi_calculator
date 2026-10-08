@@ -1,0 +1,19 @@
+/* space between the two input fields */
+#root label {
+  margin-top: 20px;
+}
+
+/* space between each label and its box */
+#root input {
+  margin-top: 8px;
+}
+
+/* extra room under the Switch button */
+#root .app > button {
+  margin-bottom: 10px;
+}
+
+/* space above Calculate / Reset */
+#root form button {
+  margin-top: 24px;
+}
